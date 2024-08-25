@@ -1,0 +1,28 @@
+Welcome to the practical evaluation for the front-end developer position.
+
+As a participant you are tasked with the test of designing a landing page for one of the available options:
+
+- Cryptocurrency Site.
+- Cooperativa Site.
+- Real State Site.
+- Advertising Agency Site
+- Tech Store
+
+The landing page must fulfill the next requirements:
+
+- Must be developed with React, Vue using Javascript or Typescript
+- Must be simple
+- Must have a 3 options Menu
+- Must be responsive
+- Must have a deal banner with a timer that ends on October 20
+
+As optional points, the page can contain any of the following requirements:
+
+- Have either a table or a chart related to page propuse. (Data can be fake)
+- Slider
+
+The landing page must be uploaded to a single branch in this repository. Please avoid the creation of multiple branches per participant.
+
+The format for the branch's name is: {first_name}_{last_name}_{page_type}
+
+If you have any questions please contact me.
